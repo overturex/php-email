@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body label
+{
+	display: inline-block;
+	width:100px;
+}
+
+body input, textarea
+{
+	width:250px;
+}
+
+body textarea, button
+{
+	width: 350px;
+}
+
+.sent
+{
+	color:#F00;
+	font-size:24px;
+}
